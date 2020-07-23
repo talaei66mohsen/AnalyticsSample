@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6860B6F4-AA54-458C-9DB9-7D838734AB20"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7C9E89F-9555-4067-9ECF-D8F8332B48E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Analytics/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "sessionStart(sessionID:userId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7C9E89F-9555-4067-9ECF-D8F8332B48E5 - edb7d8e8227f007e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Analytics.Services.sessionStart(sessionID: Swift.Int, userId: Swift.Int) -&gt; ()"
+                  moduleName = "Analytics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sepehr/Desktop/untitled%20folder%202/backup10_07_min/backup2/MT_Framework/Analytics/Services.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2527">
+               </Location>
+               <Location
+                  uuid = "C7C9E89F-9555-4067-9ECF-D8F8332B48E5 - 41399479c2088f8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in static Analytics.Services.sessionStart(sessionID: Swift.Int, userId: Swift.Int) -&gt; ()"
+                  moduleName = "Analytics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sepehr/Desktop/untitled%20folder%202/backup10_07_min/backup2/MT_Framework/Analytics/Services.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
